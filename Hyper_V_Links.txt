@@ -10,7 +10,7 @@ https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/plan/shou
 
 https://docs.microsoft.com/en-us/windows-server/virtualization/hyper-v/deploy/upgrade-virtual-machine-version-in-hyper-v-on-windows-or-windows-server
 
+https://docs.microsoft.com/en-us/windows-server/storage/whats-new-in-storage
 
-
-
+https://www.microsoft.com/de-de/evalcenter/evaluate-hyper-v-server-2019
 
